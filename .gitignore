@@ -2,6 +2,7 @@
 !/.gitignore
 !/Library/
 !/README.md
+!/mirror.sh
 !/bin
 /bin/*
 !/bin/brew
@@ -10,3 +11,4 @@
 /Library/LinkedKegs
 /Library/Taps
 /Library/Formula/.gitignore
+/Library/Formula/mirror
