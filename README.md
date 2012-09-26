@@ -3,11 +3,7 @@ Homebrew
 
 What is this fork actaully about?
 ---------------------------------
-Its a few simple scripts to wrap around homebrew to be able to create a homebrew dvd (cd?) with everything on it you need. No need for a internet connection!
-
-The approach is to simply mirror everything referenced from within the Formulas and then make a simple mod to each formula to actually reference the mirrored versions.
-
-
+Its a few simple scripts to wrap around homebrew to be able to create a homebrew dvd (cd?) with everything on it you need. No need for a internet connection! homebrew already almost has this functionlity in the form of the ```brew fetch``` command - this branch makes no sense.
 
 
 Features, usage and installation instructions are [summarized on the homepage][home].
